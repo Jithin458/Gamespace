@@ -1,0 +1,23 @@
++=================================================================+
+
+                        Game Space
+                        ==========
+
+thanks for using our app
+
+account
+-------
+there are 3 options :
+login   : to login using alredy registered username and password 
+          account will we sign ined till you log out
+
+sign in : to register a new account
+          
+guest   : to sign in as guest (has no permanent score storing)
+
+quit    : exits app 
+
+reset   : you can reset password in two ways
+          * when you forgot password while loggin in 
+          * inside account management
+.
