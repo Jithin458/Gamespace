@@ -17,7 +17,7 @@ GameZone is a collaborative Python game application developed as a school projec
 - `main.py`: Main application file containing the core logic and routes.
 
 # Contribution Guidelines
-We encourage contributions from the community to improve and enhance the GameZone application. Please refer to the Contribution Guidelines in the README.md file for more information.
+We encourage contributions from the community to improve and enhance the GameZone application. 
 
 # License
 This repository is licensed under the MIT License. For more details, please refer to the LICENSE file.
